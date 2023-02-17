@@ -5,7 +5,6 @@
 
 }
 
-
 .header{
     text-align: center;
     background-color: lightgoldenrodyellow;
@@ -29,6 +28,9 @@ h1 h3 {
     border-radius: 30px;
     text-decoration: none;
     color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
 }
 
 .r-title:hover {
@@ -41,4 +43,7 @@ div {
 
 .food {
     border-radius: 30px;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
 }
